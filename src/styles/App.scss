@@ -1,0 +1,34 @@
+
+table {
+    border-collapse: separate;
+    border: 3px solid black; 
+
+     th {
+        background-color: rgb(149, 149, 255);
+        border-right: 1px solid black;
+    }
+    tr:hover{
+        background-color: rgb(221, 221, 221);
+        cursor: pointer;
+    }
+}
+
+td{
+    border-right: 1px solid black;
+}
+
+
+.mui-t-header {
+    .MuiTableCell-root{
+        font-size: 30px;
+        min-width:220px;
+    }
+}
+
+.mui-text-field{
+
+}
+
+.mui-dropdown{
+    min-width: 120px;
+}

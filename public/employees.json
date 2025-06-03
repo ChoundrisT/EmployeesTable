@@ -1,0 +1,94 @@
+{
+  "employees":[
+    {
+      "id": 1,
+      "fullName": "Alice Johnson",
+      "department": "Engineering",
+      "email": "imagineDragons123@example.com",
+      "status": "Active",
+      "hireDate": "2021-03-15",
+      "notes": "Frontend React developer"
+    },
+    {
+      "id": 2,
+      "fullName": "Bob Smith",
+      "department": "Marketing",
+      "email": "bob.smith@example.com",
+      "status": "Inactive",
+      "hireDate": "2020-07-01",
+      "notes": "SEO and content strategist"
+    },
+    {
+      "id": 3,
+      "fullName": "Charlie Nguyen",
+      "department": "Engineering",
+      "email": "charlie.nguyen@example.com",
+      "status": "Active",
+      "hireDate": "2022-01-10",
+      "notes": "Backend API developer"
+    },
+    {
+      "id": 4,
+      "fullName": "Diana Lopez",
+      "department": "HR",
+      "email": "diana.lopez@example.com",
+      "status": "Active",
+      "hireDate": "2019-11-23",
+      "notes": "Handles onboarding"
+    },
+    {
+      "id": 5,
+      "fullName": "Ethan Patel",
+      "department": "Finance",
+      "email": "ethan.patel@example.com",
+      "status": "Active",
+      "hireDate": "2018-05-30",
+      "notes": "Financial analyst"
+    },
+    {
+      "id": 6,
+      "fullName": "Fiona García",
+      "department": "Engineering",
+      "email": "fiona.garcia@example.com",
+      "status": "On Leave",
+      "hireDate": "2023-06-17",
+      "notes": "Currently on maternity leave"
+    },
+    {
+      "id": 7,
+      "fullName": "George Ivanov",
+      "department": "Sales",
+      "email": "george.ivanov@example.com",
+      "status": "Active",
+      "hireDate": "2020-02-08",
+      "notes": "Top performer in Q4 2024"
+    },
+    {
+      "id": 8,
+      "fullName": "Hana Kim",
+      "department": "Engineering",
+      "email": "hana.kim@example.com",
+      "status": "Inactive",
+      "hireDate": "2017-09-14",
+      "notes": "Retired team lead"
+    },
+    {
+      "id": 9,
+      "fullName": "Isaac Brown",
+      "department": "Customer Support",
+      "email": "isaac.brown@example.com",
+      "status": "Active",
+      "hireDate": "2021-12-05",
+      "notes": "High customer ratings"
+    },
+    {
+      "id": 10,
+      "fullName": "Julia Müller",
+      "department": "Engineering",
+      "email": "julia.muller@example.com",
+      "status": "Active",
+      "hireDate": "2024-01-22",
+      "notes": "DevOps specialist"
+    }
+]
+}
