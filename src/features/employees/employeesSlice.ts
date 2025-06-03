@@ -28,7 +28,7 @@ export const fetchEmployees = createAsyncThunk(
     async ()=>{
         const response = await fetch('http://localhost:3001/employees')
         if (!response.ok) throw new Error('Error fetching employees')
-            return (await response.json()) as Employee[]
+        return (await response.json()) as Employee[]
     }
 )
 
